@@ -1,9 +1,9 @@
-# Hi there 👋 I'm Gagan Mittal
+<!-- # Hi there 👋 I'm Gagan Mittal -->
 
 
-**gaganmittal8/gaganmittal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **gaganmittal8/gaganmittal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,19 +12,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Gagan Mittal </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganmittal8&label=Profile%20views&color=0e75b6&style=flat" alt="gaganmittal8"  />  </p>
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp" width="55%" height="70%" style="margin:0 50px;"> 
+<!-- <img align="right" alt="GIF" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp" width="55%" height="70%" style="margin:0 50px;">  -->
 
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="55%" height="70%" style="position:absolute; margin:0 50px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
 
 <b> About Me: </b>
 - 😄 Pronouns: He/Him
