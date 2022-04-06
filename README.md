@@ -14,9 +14,9 @@
 <h3 align="left">Skills: </h3>
 <div>
   <img align="left" title="HTML5" alt="HTML5" width="35px" src="./assests/images/1-html-5-48.png" />
-  <img align="left" title="CSS3" alt="CSS3" width="35px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/2-css3-48.png" />
-  <img align="left" title="JavaScript" alt="JavaScript" height="35px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/3-javascript-48.png" />
-  <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/4-bootstrap-48.png" />
+  <img align="left" title="CSS3" alt="CSS3" width="35px" src="./assests/images/2-css3-48.png" />
+  <img align="left" title="JavaScript" alt="JavaScript" height="35px" src="./assests/images/3-javascript-48.png" />
+  <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="./assests/images/4-bootstrap-48.png" />
 </div>
 
 <br>
@@ -25,13 +25,13 @@
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 <div>
   <a href="https://www.linkedin.com/in/gaganmittal8/" target="_blank" >
-    <img align="left" title="LinkedIn - Gagan Mittal" alt="LinkedIn" height="28px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/5-linkedin-48.png" />
+    <img align="left" title="LinkedIn - Gagan Mittal" alt="LinkedIn" height="28px" src="./assests/images/5-linkedin-48.png" />
   </a>
   <a href="mailto:gaganagarwal03@gmail.com">
-    <img align="left" title="Mail - Gagan Agarwal" alt="Mail" height="28px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/6-email-open-48.png" />
+    <img align="left" title="Mail - Gagan Agarwal" alt="Mail" height="28px" src="./assests/images/6-email-open-48.png" />
   </a>
   <a href="https://www.instagram.com/gaganmittal8/" target="_blank" >
-    <img align="left" title="Instagram - Gagan Mittal" alt="Instagram" height="28px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/7-instagram-48.png" />
+    <img align="left" title="Instagram - Gagan Mittal" alt="Instagram" height="28px" src="./assests/images/7-instagram-48.png" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/gaganmittal8">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=radical&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=radical&hide_border=true" />
 
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaganmittal8&show_icons=true&hide_border=true&theme=radical" />
   </a>
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/gaganmittal8">
-    <img alt="Gagan's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=gaganmittal8&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+    <img alt="Gagan's Activity Graph" width="100%" src="https://activity-graph.herokuapp.com/graph?username=gaganmittal8&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
   </a>
 </p>
 
