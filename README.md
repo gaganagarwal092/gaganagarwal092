@@ -13,7 +13,7 @@
 
 <h3 align="left">Skills: </h3>
 <div>
-  <img align="left" title="HTML5" alt="HTML5" width="35px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/1-html-5-48.png" />
+  <img align="left" title="HTML5" alt="HTML5" width="35px" src="./assests/images/1-html-5-48.png" />
   <img align="left" title="CSS3" alt="CSS3" width="35px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/2-css3-48.png" />
   <img align="left" title="JavaScript" alt="JavaScript" height="35px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/3-javascript-48.png" />
   <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="https://github.dev/gaganmittal8/gaganmittal8/blob/aa23128ce58efaf643acdbdeb4a6293dad3d4338/assests/images/4-bootstrap-48.png" />
@@ -42,9 +42,9 @@
 
 <p align="center">
   <a href="https://github.com/gaganmittal8">
-    <img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=radical&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=radical&hide_border=true" />
 
-    <img   width="50%" src="https://github-readme-stats.vercel.app/api?username=gaganmittal8&show_icons=true&hide_border=true&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaganmittal8&show_icons=true&hide_border=true&theme=radical" />
   </a>
 </p>
 
