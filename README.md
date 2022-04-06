@@ -42,11 +42,19 @@
 
 <p align="center">
   <a href="https://github.com/gaganmittal8">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=radical&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=gruvbox&hide_border=true" />
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaganmittal8&show_icons=true&hide_border=true&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaganmittal8&show_icons=true&hide_border=true&theme=gruvbox" />
   </a>
 </p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <br>
 <br>
