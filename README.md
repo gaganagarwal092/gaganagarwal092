@@ -41,10 +41,8 @@
 ## Stats:
 
 <p align="center">
-  <a href="https://github.com/gaganmittal8" align="left">
+  <a href="https://github.com/gaganmittal8">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=gruvbox&hide_border=true" />
-  </a>
-  <a href="https://github.com/gaganmittal8" align="right">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganmittal8&show_icons=true&hide_border=true&theme=gruvbox" />
   </a>
 </p>
