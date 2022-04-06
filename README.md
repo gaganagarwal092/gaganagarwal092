@@ -13,10 +13,10 @@
 
 <h3 align="left">Skills: </h3>
 <div>
-  <img align="left" title="HTML5" alt="HTML5" width="35px" src="./assests/images/1-html-5-48.png" />
-  <img align="left" title="CSS3" alt="CSS3" width="35px" src="./assests/images/2-css3-48.png" />
-  <img align="left" title="JavaScript" alt="JavaScript" height="35px" src="./assests/images/3-javascript-48.png" />
-  <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="./assests/images/4-bootstrap-48.png" />
+  <img align="left" title="HTML5" alt="HTML5" width="auto" src="./assests/images/1-html-5-48.png" />
+  <img align="left" title="CSS3" alt="CSS3" width="auto" src="./assests/images/2-css3-48.png" />
+  <img align="left" title="JavaScript" alt="JavaScript" width="auto" src="./assests/images/3-javascript-48.png" />
+  <img align="left" title="Bootstrap" alt="Bootstrap" width="auto" src="./assests/images/4-bootstrap-48.png" />
 </div>
 
 <br>
@@ -25,13 +25,13 @@
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 <div>
   <a href="https://www.linkedin.com/in/gaganmittal8/" target="_blank" >
-    <img align="left" title="LinkedIn - Gagan Mittal" alt="LinkedIn" height="28px" src="./assests/images/5-linkedin-48.png" />
+    <img align="left" title="LinkedIn - Gagan Mittal" alt="LinkedIn" width="auto" src="./assests/images/5-linkedin-48.png" />
   </a>
   <a href="mailto:gaganagarwal03@gmail.com">
-    <img align="left" title="Mail - Gagan Agarwal" alt="Mail" height="28px" src="./assests/images/6-email-open-48.png" />
+    <img align="left" title="Mail - Gagan Agarwal" alt="Mail" width="auto" src="./assests/images/6-email-open-48.png" />
   </a>
   <a href="https://www.instagram.com/gaganmittal8/" target="_blank" >
-    <img align="left" title="Instagram - Gagan Mittal" alt="Instagram" height="28px" src="./assests/images/7-instagram-48.png" />
+    <img align="left" title="Instagram - Gagan Mittal" alt="Instagram" width="auto" src="./assests/images/7-instagram-48.png" />
   </a>
 </div>
 
