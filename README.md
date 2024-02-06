@@ -7,9 +7,7 @@
 <b> About Me: </b>
 - 😄 Pronouns: He/Him
 - 💻 Frontend Developer
-- 👩‍💻 Currently learning ReactJs!
-- 🤝 Looking to collaborate on Front End Web Development 
-- ⚡ Fun fact: I like to make memes! 🤪 
+- 🤝 Looking to collaborate on Front End Web Development
 
 <h3 align="left">Skills: </h3>
 <div>
@@ -27,7 +25,7 @@
   <a href="https://www.linkedin.com/in/gaganmittal8/" target="_blank" >
     <img align="left" title="LinkedIn - Gagan Mittal" alt="LinkedIn" width="auto" src="./assests/images/5-linkedin-48.png" />
   </a>
-  <a href="mailto:gaganagarwal03@gmail.com">
+  <a href="mailto:gaganagarwal.official@gmail.com">
     <img align="left" title="Mail - Gagan Agarwal" alt="Mail" width="auto" src="./assests/images/6-email-open-48.png" />
   </a>
   <a href="https://www.instagram.com/gaganmittal8/" target="_blank" >
@@ -58,11 +56,3 @@
 
 <br>
 <br>
-
-<p align="center">
-    :arrow_down: Scroll down to see my top repositories :arrow_down:
-    <br>
-    <b>
-      Show some ❤️ by starring some of the repos!
-    </b>
-</p>
