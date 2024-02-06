@@ -14,6 +14,7 @@
   <img align="left" title="CSS3" alt="CSS3" width="auto" src="./assests/images/2-css3-48.png" />
   <img align="left" title="JavaScript" alt="JavaScript" width="auto" src="./assests/images/3-javascript-48.png" />
   <img align="left" title="Bootstrap" alt="Bootstrap" width="auto" src="./assests/images/4-bootstrap-48.png" />
+  <img align="left" title="React" alt="React" width="auto" src="./assests/images/5-react-48.png" />
 </div>
 
 <br>
