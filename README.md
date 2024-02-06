@@ -47,12 +47,3 @@
 
 <br>
 <br>
-
-<p align="center">
-  <a href="https://github.com/gaganmittal8">
-    <img alt="Gagan's Activity Graph" width="100%" src="https://activity-graph.herokuapp.com/graph?username=gaganmittal8&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
-  </a>
-</p>
-
-<br>
-<br>
