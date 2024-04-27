@@ -1,6 +1,6 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Gagan Agarwal </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganmittal8&label=Profile%20views&color=0e75b6&style=flat" alt="gaganmittal8" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganagarwal092&label=Profile%20views&color=0e75b6&style=flat" alt="gaganagarwal092" /></p>
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" width="55%" height="70%" style="margin:0 50px;">
 
@@ -22,15 +22,15 @@
 
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 <div>
-  <a href="https://www.linkedin.com/in/gaganmittal8/" target="_blank" >
-    <img align="left" title="LinkedIn - Gagan Mittal" alt="LinkedIn" width="auto" src="./assests/images/5-linkedin-48.png" />
+  <a href="https://www.linkedin.com/in/gaganagarwal092/" target="_blank" >
+    <img align="left" title="LinkedIn - Gagan Agarwal" alt="LinkedIn" width="auto" src="./assests/images/5-linkedin-48.png" />
   </a>
   <a href="mailto:gaganagarwal.official@gmail.com">
     <img align="left" title="Mail - Gagan Agarwal" alt="Mail" width="auto" src="./assests/images/6-email-open-48.png" />
   </a>
-  <a href="https://www.instagram.com/gaganmittal8/" target="_blank" >
+<!--   <a href="https://www.instagram.com/gaganmittal092/" target="_blank" >
     <img align="left" title="Instagram - Gagan Mittal" alt="Instagram" width="auto" src="./assests/images/7-instagram-48.png" />
-  </a>
+  </a> -->
 </div>
 
 <br>
