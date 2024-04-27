@@ -39,9 +39,9 @@
 ## Stats:
 
 <p align="center">
-  <a href="https://github.com/gaganmittal8">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmittal8&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganmittal8&show_icons=true&hide_border=true&theme=gruvbox" width="48%" />
+  <a href="https://github.com/gaganagarwal092">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganagarwal092&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganagarwal092&show_icons=true&hide_border=true&theme=gruvbox" width="48%" />
   </a>
 </p>
 
